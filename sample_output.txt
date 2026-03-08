@@ -1,0 +1,8 @@
+Enter student name: Ravi
+Enter marks: 85
+Enter student name: Priya
+Enter marks: 90
+
+Student Records:
+Ravi : 85
+Priya : 90
